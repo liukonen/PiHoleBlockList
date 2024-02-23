@@ -1,0 +1,13 @@
+0.0.0.0 s.youtube.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0  static.2mdn.net
+0.0.0.0 s0.2mdn.net
+0.0.0.0 google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 ll.a.hulu.com
+0.0.0.0 metrics.ticketmaster.com
+0.0.0.0 pro.hit.gemius.pl
+0.0.0.0 video-ad-stats.googlesyndication.com
+0.0.0.0 redirector.googlevideo.com
+0.0.0.0  www.youtube-nocookie.com
+0.0.0.0 static.2mdn.net
